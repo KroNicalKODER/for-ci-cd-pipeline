@@ -41,5 +41,5 @@ jobs:
         uses: amondnet/vercel-action@v20
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
-          vercel-args: "--prod"  # Deploy to production
+          vercel-args: "--prod --yes"  # Deploy to production
           working-directory: ./
