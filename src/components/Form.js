@@ -50,7 +50,7 @@ function App() {
   const formStyle = {
     maxWidth: "500px",
     margin: "0 auto",
-    backgroundColor: "#f8f9fa",
+    backgroundColor: "red",
     border: "1px solid #ced4da",
     borderRadius: "10px",
     padding: "20px",
