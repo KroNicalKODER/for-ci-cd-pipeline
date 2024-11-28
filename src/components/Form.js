@@ -53,7 +53,7 @@ function App() {
     backgroundColor: "#f8f9fa",
     border: "1px solid #ced4da",
     borderRadius: "10px",
-    padding: "20px",
+    padding: "21px",
     boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
   };
 
