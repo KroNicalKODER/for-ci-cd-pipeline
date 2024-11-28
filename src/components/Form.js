@@ -34,7 +34,7 @@ function App() {
       return;
     }
 
-    if (phone.length !== 10 || isNaN(phone)) {
+    if (phone.length !== 8 || isNaN(phone)) {
       setError("Phone number must be 10 digits.");
       return;
     }
